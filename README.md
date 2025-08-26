@@ -1,0 +1,1 @@
+This python code is developed to fetch data from MongoDB and insert it in batches of 10000 documents to a table in Oracle database. The performance of the code is fine. It inserts more than 2 million records in less than half an hour.
